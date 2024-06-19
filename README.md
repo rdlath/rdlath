@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rdlath
 - 👀 I’m interested in Python, Translations, AI
-- 🌱 I’m currently learning GPT, Python
+- 🌱 I’m currently learning AI Integrations and AI Translation, Python
 
 <!---
 rdlath/rdlath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
